@@ -2,7 +2,7 @@
 
 了 = le / liǎo = sentence particle / understand as in ‘liǎo jie’ / N/A = used in conjunction with ‘不’, after a verb
 太大了 = tài dà le = Too big.
-我吃了 = wǒ chī le I ate.
+我吃了 = wǒ chī le = I ate.
 了解 = liǎo jiě = understand
 做不了 = zuò bù liǎo = Cannot do it.
 子 = zǐ = son; baby; young child / character
