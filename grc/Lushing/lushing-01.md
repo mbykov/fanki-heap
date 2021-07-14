@@ -1,28 +1,28 @@
 # AN I NTRODUCTION TO A NCIENT G REEK A Literary Approach Second Edition Revised by C.A.E. Luschnig Deborah Mitchell
 # lesson 01
 
-ἄγω = lead, drive, bring (paedagogue, παιδαγωγός)
-ἄρχω = begin; rule (+ gen.) (archaeology; anarchy)
-βουλεύω = plan (+ inf., resolve to do) (βουλευτήριον, council chamber)
-βούλομαι = wish, want (+ inf.) (cf. Lat. volo, Ger. wollen, Eng. will)
-γίγνομαι = become, be born, be, turn out to be (+ nom.) (the root of this word is γεν‐, γν‐, > γένεσις)
-γράφω = write (epigraphy, palaeography)
-ἐθέλω = wish, be willing (+ inf.) (not found in m.-p.)
-ἔρχομαι = come, go
-ἔχω = have, hold, keep
-κρίνω = judge; decide, separate (critic)
-λέγω = say, speak, mean (cf. Lat. lego; Greek, λόγος word)
-λείπω = leave (eclipse, ellipse)
-λύω = free, loosen, release; destroy, break; mid. ransom (catalyst, analysis)
-μένω = remain, wait (not found in m.-p.)
-νομίζω = think, believe (< νόμος)
-παιδεύω = educate, train (< παίς, παιδός child)
-παύω = stop; mid. cease (pause)
-πείθω = persuade; in m.-p. obey, trust (+ dative) (Πειθώ, Peitho, Persuasion, patron goddess of politicians)
-πέμπω = send (pomp)
-πιστεύω = trust (+ dat.)
-πράττω = do, make; mid. exact for oneself (as a fee) (practical, pragmatic)
-φέρω = bring, carry, bear (cf. Lat. fero, Eng. bear)
+# ἄγω = lead, drive, bring (paedagogue, παιδαγωγός)
+# ἄρχω = begin; rule (+ gen.) (archaeology; anarchy)
+# βουλεύω = plan (+ inf., resolve to do) (βουλευτήριον, council chamber)
+# βούλομαι = wish, want (+ inf.) (cf. Lat. volo, Ger. wollen, Eng. will)
+# γίγνομαι = become, be born, be, turn out to be (+ nom.) (the root of this word is γεν‐, γν‐, > γένεσις)
+# γράφω = write (epigraphy, palaeography)
+# ἐθέλω = wish, be willing (+ inf.) (not found in m.-p.)
+# ἔρχομαι = come, go
+# ἔχω = have, hold, keep
+# κρίνω = judge; decide, separate (critic)
+# λέγω = say, speak, mean (cf. Lat. lego; Greek, λόγος word)
+# λείπω = leave (eclipse, ellipse)
+# λύω = free, loosen, release; destroy, break; mid. ransom (catalyst, analysis)
+# μένω = remain, wait (not found in m.-p.)
+# νομίζω = think, believe (< νόμος)
+# παιδεύω = educate, train (< παίς, παιδός child)
+# παύω = stop; mid. cease (pause)
+# πείθω = persuade; in m.-p. obey, trust (+ dative) (Πειθώ, Peitho, Persuasion, patron goddess of politicians)
+# πέμπω = send (pomp)
+# πιστεύω = trust (+ dat.)
+# πράττω = do, make; mid. exact for oneself (as a fee) (practical, pragmatic)
+# φέρω = bring, carry, bear (cf. Lat. fero, Eng. bear)
 
 # syntax
 ## A. Dative of Means
