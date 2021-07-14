@@ -98,3 +98,18 @@
 ἔχει ἃ βούλεται = he has (those things) that he wants, or he has what he wants
 
 οἱ μὲν ἦσαν ἀγαθοί, οἱ δὲ κακοί = some men were good, but some evil
+
+τί ἐστι καινόν; = What’s new?
+οὐδὲν καινότερον = Nothing (newer).
+πῶς ἔχεις; = How are you?
+ἔχω κακῶς. = I’m ill.
+τί πάσχεις, ὦ φίλε; = What’s wrong, my friend?
+ἀλγῶ τὴν κεφαλήν· = χθὲς γὰρ ἐμεθύσθην. = I have a headache. For I got drunk yesterday.
+
+τί μικρόλογος εἶ; πλεῖαί τοι οἴνου κλισίαι. = Why are you so stingy? Your tents are full of wine.
+οἴνῳ τὸν οἶνον ἐξελαύνειν. = A hair of the dog that bit you. (Lit. to drive out wine with wine.)
+οἶνος, ὦ φίλε παῖ, καὶ ἀλάθεα (= ἀλήθεια). = Wine, dear boy, and truth. (In vino veritas)
+οἱ μὲν ἄρ’ οἶνον ἔμισγον ἐνὶ κρητῆρσι καὶ ὕδωρ. = Some were mixing wine and water in craters (mixing bowls).
+οὐδεὶς φιλοπότης ἐστὶν ἄνθρωπος κακός. = No one who is fond of drinking is a wicked man.
+ἄριστον μὲν ὕδωρ . . . = Water is best . . .
+τυφλὸς τά τ’ ὦτα τόν τε νοῦν τά τ’ ὄμματ’ εἶ. = You are blind in your ears, your mind, and your eyes.[τὰ ὦτα, τὸν νοῦν, τὰ ὄμματα are acc. of respect]
