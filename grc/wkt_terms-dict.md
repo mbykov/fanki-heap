@@ -3,80 +3,80 @@
 
 # ================================ TERMS: ======================
 
-ἀλλά =  but
+ἀλλά = but
 ἀλλ᾽ = apocopic ἀλλά but
 ἀλλ = apocopic ἀλλά but
-ἄν =  (modal particle) Particle expresses potentiality or conditionality = κε (ke) = κεν (ken) – Epic, Lyric = κα (ka) – Doric
-ἄρα =  so, then, therefore, consequently = ἄρ (ár) – before a consonant
-ἄρ᾽  = apocopic ἄρα
-ῥα  = ἄρα after a monosyllabic word or a word ending in a vowel
-ῥ᾽  = apocopic ῥά (rhá)
+ἄν = (modal particle) Particle expresses potentiality or conditionality = κε (ke) = κεν (ken) – Epic, Lyric = κα (ka) – Doric
+ἄρα = so, then, therefore, consequently = ἄρ (ár) – before a consonant
+ἄρ᾽ = apocopic ἄρα
+ῥα = ἄρα after a monosyllabic word or a word ending in a vowel
+ῥ᾽ = apocopic ῥά (rhá)
 ἀτάρ = but, nevertheless
 αὐτάρ = (Epic) (marking contrast or transition, sometimes paired with μέν (mén)) But, however, besides, moreover
 ἄχρι = to the very bottom, to the uttermost, utterly (after Homer, before prepositions) even to, as far as (of time) until (of space) as far as, even to (of measure or degree) up to this point
-γάρ =  for since because (postpositive)
-δέ =  but, and = δ᾽ • (d᾽)
-διό =  wherefore, on which account because
-διότι =  because
-ἐάν =  if (for more depth see εἰ (ei) and ἄν (án) (New Testament Koine) Used in place of ἄν (án) after relative pronouns and conjunctions = ἤν • (ḗn)
-εἰ =  if
-εἴ  = if
+γάρ = for since because (postpositive)
+δέ = but, and = δ᾽ • (d᾽)
+διό = wherefore, on which account because
+διότι = because
+ἐάν = if (for more depth see εἰ (ei) and ἄν (án) (New Testament Koine) Used in place of ἄν (án) after relative pronouns and conjunctions = ἤν • (ḗn)
+εἰ = if
+εἴ = if
 εἰκ = εἴγε
-εἴπερ =  if really, if indeed, even if, even though (in Attic, to imply that the supposition agrees with the fact, with the imperfect it implies that it is contrary to the fact) act.aor.
-εἴτε =  (generally doubled) either...or, whether..or (like εἰ (ei), in indirect questions) = αἴτε (aíte) – Doric = εἴτ᾽
-ἕνεκα =  because that (with genitive) on account of, for the sake of, because of with regard to, as far as regards, as for (pleonastic) = ἕνεκεν (héneken) = εἵνεκα (heíneka) – Ionic, Poetic = εἵνεκεν = (heíneken) – Ionic, Poetic = ἕνεκε (héneke) = ἕννεκα (hénneka) – Aeolic
-ἐπεί =  after, after that, since, when = ἐπειδή • (epeidḗ) = ἐπείτε
+εἴπερ = if really, if indeed, even if, even though (in Attic, to imply that the supposition agrees with the fact, with the imperfect it implies that it is contrary to the fact) act.aor.
+εἴτε = (generally doubled) either...or, whether..or (like εἰ (ei), in indirect questions) = αἴτε (aíte) – Doric = εἴτ᾽
+ἕνεκα = because that (with genitive) on account of, for the sake of, because of with regard to, as far as regards, as for (pleonastic) = ἕνεκεν (héneken) = εἵνεκα (heíneka) – Ionic, Poetic = εἵνεκεν = (heíneken) – Ionic, Poetic = ἕνεκε (héneke) = ἕννεκα (hénneka) – Aeolic
+ἐπεί = after, after that, since, when = ἐπειδή • (epeidḗ) = ἐπείτε
 
-ἐπήν =  when, whenever
-ἕως =  until, while
+ἐπήν = when, whenever
+ἕως = until, while
 εἵως = ἕως
 εἷος = ἇς (hâs)
-ἤ =  than, as (in a comparative construction) = ἢ • (ḕ) = ἠέ • (ēé)
+ἤ = than, as (in a comparative construction) = ἢ • (ḕ) = ἠέ • (ēé)
 ἦ = The pair ἤ... ἦ (ḗ... ê) means ‘either... or...᾽ or ‘whether... or...᾽. = ἦε (êe) – Epic
-ἠδέ =  (poetic) ἠμέν (ēmén) ... ἠδέ ...: both ... and ... Alone or with τε (te) before it: and Followed by καί (kaí): and, also
-ἠδ᾽ = apocopic ἰδέ (idé)  Epic
-ἠμέν =  (poetic) ἠμέν (ēmén) ... ἠδέ (ēdé) ...: both ... and ...
-ἤτοι =  either or
-ἵνα =  in order that, so that, so that where = ἵν᾽ • (hín᾽)
-καί =  and even, also both ... and ... (when used in the construction καί ... καί ...)
-καίπερ =  although, albeit
+ἠδέ = (poetic) ἠμέν (ēmén) ... ἠδέ ...: both ... and ... Alone or with τε (te) before it: and Followed by καί (kaí): and, also
+ἠδ᾽ = apocopic ἰδέ (idé) Epic
+ἠμέν = (poetic) ἠμέν (ēmén) ... ἠδέ (ēdé) ...: both ... and ...
+ἤτοι = either or
+ἵνα = in order that, so that, so that where = ἵν᾽ • (hín᾽)
+καί = and even, also both ... and ... (when used in the construction καί ... καί ...)
+καίπερ = although, albeit
 κἀπεί = after that, since, when
-κᾷτα =  Contraction of καὶ εἶτα (kaì eîta, “and then”).
-μέχρι =  (governs the genitive) (Marker of spatial extension): as far as (Marker of temporal extension): until (Marker of general extent): to the point of, so far as = μέχρις • (mékhris) – before vowels
-μηδέ =  (connecting two clauses, used with the same constructions as μή (mḗ)) but not, and not, nor (doubled, μηδέ...μηδέ, opposing the two clauses of a sentence)
+κᾷτα = Contraction of καὶ εἶτα (kaì eîta, “and then”).
+μέχρι = (governs the genitive) (Marker of spatial extension): as far as (Marker of temporal extension): until (Marker of general extent): to the point of, so far as = μέχρις • (mékhris) – before vowels
+μηδέ = (connecting two clauses, used with the same constructions as μή (mḗ)) but not, and not, nor (doubled, μηδέ...μηδέ, opposing the two clauses of a sentence)
 μηδ᾽ = apocopic μηδέ
-μήποτε =  never, on no account (in prohibition or strong denial, with aorist subjunctive) (Koine) perhaps
-μήποτε =  that at not time, lest ever
-μήτε =  (mostly doubled, sometimes with μηδέ (mēdé)) and not, neither...nor
-μή =  negative used in prohibitions
-ὁπότε =  (relative) when (mostly in reference to the past) = ὁπότ᾽ • (hopót᾽) = ὁππότε (hoppóte) – Epic = ὁκότε (hokóte) – Ionic = ὁπόκα (hopóka) – Cyrenaic = ὁππόκα (hoppóka) – Doric
-ὁπόταν =  See ὁπότε (hopóte) and ἄν (án).
-ὅπως =  that, in order that
-ὅταν =  (with a conditional force, about events likely to recur) whenever, when
-ὅτι =  after verbs of perception and emotion, introducing a noun clause expressing a fact: that (with the same mood as the corresponding independent clause) after verbs of perception, emotion, saying, or hearing, introducing an indirect statement: that (with indicative or optative) introducing a causal clause expressing a reason: because (with a superlative) as much as possible = ὅττι • (hótti)
-οὐδέ =  (more often) and not, nor (mostly answering to μέν (mén)) but not not even, not at all
+μήποτε = never, on no account (in prohibition or strong denial, with aorist subjunctive) (Koine) perhaps
+μήποτε = that at not time, lest ever
+μήτε = (mostly doubled, sometimes with μηδέ (mēdé)) and not, neither...nor
+μή = negative used in prohibitions
+ὁπότε = (relative) when (mostly in reference to the past) = ὁπότ᾽ • (hopót᾽) = ὁππότε (hoppóte) – Epic = ὁκότε (hokóte) – Ionic = ὁπόκα (hopóka) – Cyrenaic = ὁππόκα (hoppóka) – Doric
+ὁπόταν = See ὁπότε (hopóte) and ἄν (án).
+ὅπως = that, in order that
+ὅταν = (with a conditional force, about events likely to recur) whenever, when
+ὅτι = after verbs of perception and emotion, introducing a noun clause expressing a fact: that (with the same mood as the corresponding independent clause) after verbs of perception, emotion, saying, or hearing, introducing an indirect statement: that (with indicative or optative) introducing a causal clause expressing a reason: because (with a superlative) as much as possible = ὅττι • (hótti)
+οὐδέ = (more often) and not, nor (mostly answering to μέν (mén)) but not not even, not at all
 οὐδ᾽ = apocopic οὐδέ
 οὔτε = (with indicative) - and…not
 μήτε = (with infinitive) - and…not
 
-οὐκοῦν =  therefore
-ὄφρα =  (final or temporal conjunction) (poetic) in order that (with subjunctive or optative) as long as, while (with imperfect, or subjunctive and ἄν (án) or κε (ke)) until (with aorist indicative of past time, aorist subjunctive of future time, optative of future in past)
+οὐκοῦν = therefore
+ὄφρα = (final or temporal conjunction) (poetic) in order that (with subjunctive or optative) as long as, while (with imperfect, or subjunctive and ἄν (án) or κε (ke)) until (with aorist indicative of past time, aorist subjunctive of future time, optative of future in past)
 ὄφρ᾽ = apocopic ὄφρα
 οὖν = therefore (postpositive)
 ὅθεν = from where
 ὅτε = when = ὅτ᾽
-πάρος =  (poetic) formerly, up to now too soon rather, sooner before
-πλήν =  (governs the genitive) more than, above, beyond, except
-πλήν =  except, save (with single words and phrases, especially when a negative precedes) (often joined with other particles) (with εἰ (ei)) (followed by a verb) (with a verb omitted) (with ἤ (ḗ)) (with οὐ (ou)) only not (with ὅτι (hóti)) except that, save that (with ὅσον (hóson)) except or save so far as (without a verb expressed) save so far as (introducing a clause) (to break off and pass to another subject) only (late prose)
+πάρος = (poetic) formerly, up to now too soon rather, sooner before
+πλήν = (governs the genitive) more than, above, beyond, except
+πλήν = except, save (with single words and phrases, especially when a negative precedes) (often joined with other particles) (with εἰ (ei)) (followed by a verb) (with a verb omitted) (with ἤ (ḗ)) (with οὐ (ou)) only not (with ὅτι (hóti)) except that, save that (with ὅσον (hóson)) except or save so far as (without a verb expressed) save so far as (introducing a clause) (to break off and pass to another subject) only (late prose)
 πρίν = before, sooner, formerly (of future time, with future indicative) (of past time) formerly, once
-ῥα =  aphetic form of ἄρα (ára)
+ῥα = aphetic form of ἄρα (ára)
 ῥ᾽ = apocopic ῥα
-τε =  and, also or untranslatable (after each item in a list) and (combined with καί (kaí), untranslatable)
+τε = and, also or untranslatable (after each item in a list) and (combined with καί (kaí), untranslatable)
 θ᾽ = apocopic τε before a rough breathing
 τ᾽ = apocopic τε before a smooth breathing
 τοίνυν = therefore (postpositive)
-ὡς =  (relative adverb) as the introduction to similes like as, as, just as according as (with adverbial clauses) (parenthetically) to qualify a general statement; as it seems (in elliptical phrases) so far as.... (attached to the object of a verb) as (to limit or augment the force of adverbs)
-ὥστε =  (chiefly Epic, used in similes, similarly to ὡς (hōs)) (to mark the power or virtue by which one does a thing) as so that
+ὡς = (relative adverb) as the introduction to similes like as, as, just as according as (with adverbial clauses) (parenthetically) to qualify a general statement; as it seems (in elliptical phrases) so far as.... (attached to the object of a verb) as (to limit or augment the force of adverbs)
+ὥστε = (chiefly Epic, used in similes, similarly to ὡς (hōs)) (to mark the power or virtue by which one does a thing) as so that
 κἀγώ = crasis of καὶ (kaì) and ἐγώ (egṓ)
 
 # particles = : https://ancientgreek.pressbooks.com/chapter/particles/
@@ -184,5 +184,5 @@ num = ἕξ (cardinal) six (ordinal ἕκτος, adverbial ἑξάκις)
 δοκεῖν = (independent infinitive) ὡς ἐμοὶ δοκεῖν - it seems to me δοκεῖ σχεδὸν - it seems that
 ὦ = o! oh!
 οὕνεκα = on account of which, wherefore = οὕνεκ᾽
-τὰ τοιαῦτα =  и тому подобное, etc
+τὰ τοιαῦτα = и тому подобное, etc
 χίλιοι = thousands
