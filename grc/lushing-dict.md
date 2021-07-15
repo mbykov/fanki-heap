@@ -1662,4 +1662,199 @@ dissolve, destroy
 τις,τι any one, any thing; some one, some thing;any, some
 *τιτρώσκω wound, hurt
 
-τλάω(aor.ἔτλην)endure, dareτοι (enclitic particle) let me tell you; you knowτοιγάρso then, wherefore, thereforeτοίνυνwell then, well, now then, againτοῖος,-α,-ονsuchτοιόσδε,τοιάδε,τοιόνδεof such a kind orqualityτοιοῦτος,τοιαύτη,τοιοῦτοsuch, such as thisτοιοῦτος ...οἷοςsuch asτολμάωundertake, dare, endure, bring oneself to doτόνος,‑ου,ὁthat which can be stretched; pitch,accentτόπος,‑ου,ὁplace, regionτοσόσδε,-ήδε,-όνδεso great, so largeτοσόνδε(adv.)so very, so much, to such a degreeτοσοῦτος,τοσαύτη,τοσοῦτοso great, so large, somuchτότεat that time, then, nextοἱ τότεmen of that timeτραγικός,‑ή,‑όνtragic, statelyτράγος,‑ου,ὁgoatτρεῖς,τρίαthree*τρέπωturn; mid.:flee*τρέφωnourish, feed; cherish, foster; mid.:rear foroneself; pass.:grow (up)*τρέχωrunτριακοσίοι,‑αι,‑αthree-hundred*τρίβωrubτρίπους,(gen.‑ποδος)three-footed; as noun:tripodτρίτος,‑η,-ονthirdτρόμος,‑ου,ὁtrembling, quakingτρόπος,‑ου,ὁturn, direction, way, mannerτροφή,‑ῆς,ἡnourishment, food, nurture, rearingτροφός,‑οῦ,ὁ/ἡfeeder, rearer, nurse*τυγχάνωhappen; meet(+ gen.); attain, obtainτύπτωbeat, strikeτυραννίς,‑ίδος,ἡmonarchy, sovereignty, tyrannyτύραννος,‑ου,ὁabsolute ruler, monarch, tyrantτυφλός,‑ή,‑όνblindτῦφος,‑G ο υ,ὁ smoke, mist, cloud, conceit, vanityτύχη,‑ης,ἡfortune, fate, chance, success; ill fortune
+τλάω (aor.ἔτλην) endure, dare
+τοι (enclitic particle) let me tell you; you know
+τοιγάρ so then, wherefore, therefore
+τοίνυν well then, well, now then, again
+τοῖος,-α,-ον such
+τοιόσδε,τοιάδε,τοιόνδε of such a kind orquality
+τοιοῦτος,τοιαύτη,τοιοῦτο such, such as this
+τοιοῦτος ...οἷος such as
+τολμάω undertake, dare, endure, bring oneself to do
+τόνος,‑ου,ὁ that which can be stretched; pitch,accent
+τόπος,‑ου,ὁ place, region
+τοσόσδε,-ήδε,-όνδε so great, so large
+τοσόνδε (adv.) so very, so much, to such a degree
+τοσοῦτος,τοσαύτη,τοσοῦτο so great, so large, somuch
+τότε at that time, then, next
+οἱ τότε men of that time
+τραγικός,‑ή,‑όν tragic, stately
+τράγος,‑ου,ὁ goat
+τρεῖς,τρία three
+*τρέπω turn; mid.:flee
+*τρέφω nourish, feed; cherish, foster; mid.:rear foroneself; pass.:grow (up)
+*τρέχω run
+τριακοσίοι,‑αι,‑α three-hundred
+*τρίβω rub
+τρίπους, (gen.‑ποδος) three-footed; as noun:tripod
+τρίτος,‑η,-ον third
+τρόμος,‑ου,ὁ trembling, quaking
+τρόπος,‑ου,ὁ turn, direction, way, manner
+τροφή,‑ῆς,ἡ nourishment, food, nurture, rearing
+τροφός,‑οῦ,ὁ/ἡ feeder, rearer, nurse
+*τυγχάνω happen; meet(+ gen.); attain, obtain
+τύπτω beat, strike
+τυραννίς,‑ίδος,ἡ monarchy, sovereignty, tyranny
+τύραννος,‑ου,ὁ absolute ruler, monarch, tyrant
+τυφλός,‑ή,‑όν blind
+τῦφος,‑G ο υ,ὁ smoke, mist, cloud, conceit, vanity
+τύχη,‑ης,ἡ fortune, fate, chance, success; ill fortune
+
+Υὕβρις,ὕβρεως,ἡ hubris, violence, insolence, lust,rape
+ὑγιαίνω be healthy
+ὑγίεια,‑ας,ἡ health
+ὑγιής,‑ές healthy
+ὑδρωπικός,‑ή,‑όν suffering from edema
+ὕδωρ,ὕδατος,τό water
+ὕει (impers. ofὕω) it is raining
+ὑετός,‑οῦ,ὁ rain
+υἱός,‑οῦ,ὁ son(also in third declension as ι-stem)
+ὕλη,‑ης,ἡ forest, woodland; material, stuff
+ὑπαί (=ὑπό) poetic
+ὑπάρχω begin, exist, belong to, accrue, be, become,be sufficient for
+ὑπείκω yield
+ὑπέρ+ gen.: over; in defense of;+ acc.:over, beyond
+ὑπερβάλλω (<  *βάλλω) throw over orbeyond amark, overshoot, outdo, surpass, exceed; cross
+ὑπερβολή,‑ῆς,ἡ a throwing beyond, excess,excessive praise
+ὑπερηφάνως arrogantly, magnificently
+ὑπερμεγέθης,‑ές excessively large, enormous
+ὑπεύθυνος,‑ον liable to give account, accountable,responsible
+ὑπήκοος,‑ον giving ear, obedient, subject
+οἱ ὑπήκοοι subjects
+*ὑπισχνέομαι promise, profess
+ὕπνος,‑ου,ὁ sleep
+ὑπό+ gen.: under, by, through;+ dat.:beneath,under, below;+ acc.:under, to (a place) under, toward
+ὑποβολή,‑ῆς,ἡ a throwing under, substitution bystealth, suggestion; foundation
+ὑποδείκνυμι (<  *δείκνυμι) show secretly, mark out;make a display
+ὑποδέω (<  *δέω) bind under, shoe
+ὑποκριτής,‑οῦ,ὁ one who answers; actor, player,hypocrite
+ὑπολαμβάνω (<  *λαμβάνω) take up by gettingunder, take up, seize;  interpret, understand, accept,believe
+ὑπομαίνομαι be somewhat mad
+
+ὑπομένω (<  *μένω) stay behind, remain alive, abide,submit, bear, dare
+ὑποπτεύω be suspicious, suspect; pass.:be suspected
+ὑποτίθημι (<  *τίθημι) place under, suggest, propose;mid.:instruct
+ὕστερος,‑α,‑ον latter, next, last
+ὑφίστημι (<  *ἵστημι) place orset under; standunder, sink; promise,  submit; undertake
+ὑψηλός,‑ή,‑όν high, lofty
+# Φ
+*φαίνω bring to light; pass.:appear, seem
+φανερός(‑ά),‑όν visible, shining, illustrious,conspicuous
+φαρμακοπώλης,‑ου,ὁ druggist, apothecary
+φαῦλος,‑η,‑ον cheap, easy, mean, bad, petty
+φαύλως πράττειν be in a sorry plight
+φείδομαι spare; pay heed to
+*φέρω bring, carry, bear
+φεῦ alas, woe
+*φεύγω flee, take flight, avoid, escape
+*φημί say
+*φθάνω be beforehand, outstrip(+ part.)
+φθαρτός,‑ή,‑όν corruptible, destructible, mortal,transitory
+φθείρω=*διαφθείρωφθίνω wither, perish, die
+φθίσις,‑εως,ἡ wasting away, perishing, decay,atrophy
+φθογγή,‑ῆς,ἡ voice, cry
+φθόνος,-ου,ὁ envy, grudge, ill
+-willφθορά,‑ᾶς,ἡ destruction, ruin, seduction
+φιλέω love, welcome, kiss
+φιλία,‑ας,ἡ friendship, affection
+φίλιος,‑α,‑ον friendly
+φιλομαθής,‑ές fond of learning, eager for learning
+φίλη,-ης,ἡ /φίλος,‑ου,ὁ friend, loved one(including family)
+φίλος,-η,-ον dear, beloved, loving; as a noun,friend, loved one; compar.
+φίλτερος; superl.φιλτατος φιλότεκνος,‑ον loving one’s children or offspring
+φιλότιμος,-ονloving honor, ambitious
+
+φιλοφροσύνη,‑ης,ἡ friendliness, kindliness,welcome
+φλογωπός,‑όν fiery-looking, flaming red
+φλυαρέω talk nonsense, trifle
+*φοβέομαι be seized with fear, be frightened
+φοβερός,‑ά,‑όν fearful, afraid, timid
+φολίς,‑ίδος,ἡ scale (of a snake skin)
+φονεύς,‑έως,ὁ slayer, murderer
+φονεύω murder, kill, slay
+φορητός (‑ή),‑όν borne, carried, bearable
+*φράζω tell, declare, advise, bid, order
+φρήν,φρενός,ἡ midriff, heart, mind
+φρίκη,‑ης,ἡ a shuddering
+φρικώδης,‑ες awful, horrible
+φρονέω be minded, have understanding, be wise
+φρόνησις,‑εως,ἡ purpose, intention, thought,sense, judgment, pride, wisdom, prudence
+φρόνιμος,‑ον understanding, discreet, sensible, wise
+φροντίζω think of, consider
+φυγή,-ῆς,ἡ flight, escape
+φύλαξ,φύλακος,ὁ watcher, guard, sentinel
+*φυλάττω keep watch, guard, defend
+φυξίος,‑ον of banishment, putting to flight
+φυσικός,‑ή,‑όν natural, physical
+φύσις,φύσεως,ἡ nature, origin
+φυτεύω plant, beget, engender, produce, cause
+φυτόν,‑οῦ,τό plant, tree
+*φύω bring forth, produce; pass. & pf. act:grow, be born
+Φωκίς,‑ίδος,ἡ Phocis
+φωνέω produce a sound ortone, speak, tell of
+φωνή,‑ῆς,ἡ voice, sound
+φωνήεις,‑εσσα,‑εν endowed with speech, vocal
+τὰ φωνήεντα the vowels
+φώς,φωτός,ὁ man
+φῶς(=φάος),φωτός,τό light, daylight
+# Χ
+*χαίρω rejoice
+χαλεπαίνω be hard, angry
+χαλεπός,‑ή,‑όν difficult, hard to bear, painful
+
+χαλινός,‑οῦ,ὁ bridle, bit
+χαλκοῦς,‑ῆ,‑οῦν of copper orbronze
+χαρακτήρ,‑ῆρος,ὁ distinctive mark, type, character
+χαρίεις,‑εσσα,‑εν graceful, pleasant, lovely
+χάρις,χάριτος,ἡ grace, favor
+χειμών,‑ῶνος,ὁ winter, storm, tempest
+χείρ,χειρός,ἡ hand
+χειροτονία,‑ας,ἡ extension of the hand, voting byshow of hands
+*χέω pour
+χθές yesterday
+χθών,χθονός,ἡ earth, land, country
+χορεύω dance, set dancing
+*χράομαι use(+ dat.)
+*χράω proclaim (an oracle); mid.:consult an oracle
+χρεία,‑ας,ἡ need, want(of+ gen.)
+χρέων it is necessary
+*χρή it is necessary
+χρῆμα,‑ατος,τό thing, matter, affair; pl.:money
+τί χρῆμαwhy?
+χρήσιμος,‑η,‑ον useful, serviceable
+χρησμός,‑οῦ,ὁ oracular response, oracle
+χρηστός,‑ή,‑όν useful, good, honest; n. pl.: benefits
+χρόνος,‑ου,ὁ time; tense
+χρυσίον,‑ου,τό gold
+Χρύσιππος,‑ου,ὁ Chrysippus
+χρυσός,‑οῦ,ὁ gold
+χρυσοῦς,‑ῆ,‑οῦν of gold, golden
+χώρα,χώρας,ἡ space, place; land, country
+χωρέω make room for another, go, come, advance
+
+χώριον,‑ου,τό place, spot, country
+χωρίς separately, apart, without, apart from(+ gen.)
+Ψψέγω blame, find fault with
+ψευδής,‑ές false, lying, untrue
+ψευδοπροφήτης,‑ου,ὁ false prophet
+ψεύδω deceive; mid.:lie
+ψηφηγορία,‑ας,ἡ vote by ballot
+ψιλός,‑ή,‑όν bare, bald, smooth
+ψόγος,‑ου,ὁ blame, censure
+ψυχή,‑ῆς,ἡ life, soul
+ψυχρός,‑ά,‑όν cold
+# Ω
+ὦ oh!
+ὧδε in this way, so, thus; hither, here
+ᾠδή,‑ῆς,ἡ (ἀοιδή) song
+ὠνέομαι buy, purchase
+ὥρα,ὥρας,ἡ season, time of day, hour (any fixedperiod)
+ὥρα [ἐστί] it is time
+ὡς as, as if; how; prep.: to(+ acc.)
+ὡσαύτως in the same way, just so
+ὡσεί as if, as though, just as
+ὥσπερ just as, even as
+ὥστε so that, so as to, and so
+ὠφελέω help, aid, benefit, be of service to
+ὠφελία,-ας,ἡ help, assistance
+ὠφέλιμος,(-η),-ον helpful, useful
