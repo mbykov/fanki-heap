@@ -24,7 +24,7 @@
 εἰκ = εἴγε
 εἴπερ = if really, if indeed, even if, even though (in Attic, to imply that the supposition agrees with the fact, with the imperfect it implies that it is contrary to the fact) act.aor.
 εἴτε = (generally doubled) either...or, whether..or (like εἰ (ei), in indirect questions) = αἴτε (aíte) – Doric = εἴτ᾽
-ἕνεκα = because that (with genitive) on account of, for the sake of, because of with regard to, as far as regards, as for (pleonastic) = ἕνεκεν (héneken) = εἵνεκα (heíneka) – Ionic, Poetic = εἵνεκεν = (heíneken) – Ionic, Poetic = ἕνεκε (héneke) = ἕννεκα (hénneka) – Aeolic
+ἕνεκα = because that (with genitive) on account of, for the sake of, because of with regard to, as far as regards, as for (pleonastic) = ἕνεκεν (héneken) = εἵνεκα (heíneka) – Ionic, Poetic = εἵνεκεν = Ionic, Poetic = ἕνεκε (héneke) = ἕννεκα (hénneka) – Aeolic
 ἐπεί = after, after that, since, when = ἐπειδή • (epeidḗ) = ἐπείτε
 
 ἐπήν = when, whenever
@@ -41,8 +41,9 @@
 καί = and even, also both ... and ... (when used in the construction καί ... καί ...)
 καίπερ = although, albeit
 κἀπεί = after that, since, when
-κᾷτα = Contraction of καὶ εἶτα (kaì eîta, “and then”).
-μέχρι = (governs the genitive) (Marker of spatial extension): as far as (Marker of temporal extension): until (Marker of general extent): to the point of, so far as = μέχρις • (mékhris) – before vowels
+κᾷτα = Contraction of καὶ εἶτα (kaì eîta, and then).
+μέχρι = (governs the genitive) (Marker of spatial extension): as far as (Marker of temporal extension): until (Marker of general extent): to the point of, so far as
+μέχρις = μέχρι before vowels
 μηδέ = (connecting two clauses, used with the same constructions as μή (mḗ)) but not, and not, nor (doubled, μηδέ...μηδέ, opposing the two clauses of a sentence)
 μηδ᾽ = apocopic μηδέ
 μήποτε = never, on no account (in prohibition or strong denial, with aorist subjunctive) (Koine) perhaps
@@ -76,21 +77,21 @@
 τ᾽ = apocopic τε before a smooth breathing
 τοίνυν = therefore (postpositive)
 ὡς = (relative adverb) as the introduction to similes like as, as, just as according as (with adverbial clauses) (parenthetically) to qualify a general statement; as it seems (in elliptical phrases) so far as.... (attached to the object of a verb) as (to limit or augment the force of adverbs)
-ὥστε = (chiefly Epic, used in similes, similarly to ὡς (hōs)) (to mark the power or virtue by which one does a thing) as so that
-κἀγώ = crasis of καὶ (kaì) and ἐγώ (egṓ)
+ὥστε = (chiefly Epic, used in similes, similarly to ὡς  (to mark the power or virtue by which one does a thing) as so that
+κἀγώ = crasis of καὶ and ἐγώ
 
 # particles = : https://ancientgreek.pressbooks.com/chapter/particles/
 
-αὖ = “on the other hand…”
+αὖ = on the other hand…
 γε = intensifies and sharpens the word(s) before it = γ᾽
-δή = literally “now!” but more generally emphatic, hence, now, then, already
+δή = literally now! but more generally emphatic, hence, now, then, already
 δῆτα = Adv., lengthd. and more emphatic form of δή
 ἦ = emphasizes the particle that follows
 καίτοι = marks a transition, restatement or conclusion
-μέντοι = postpositive “of course” (emphatic in replies); “however” (in a transition)
+μέντοι = postpositive of course (emphatic in replies); however (in a transition)
 μήν = follows a particle that it emphasizes
 μέν = indeed, of a truth
-νῦν = ”now” “as it is now…” = νυνί
+νῦν = now as it is now… = νυνί
 οὐκοῦν = sets up an expectation to agree
 πέρ = enclitic, an emphatic suffix following relatives and conjunctions
 
@@ -126,7 +127,6 @@
 ἀνά = (+dat.) upon
 ἐν = (+dat.) in
 σύν = (+dat.) with (the help of)
-
 ἀντί = (+gen.) opposite, instead of, for the sake of = ἀντ᾽
 ἀπό = (+gen.) from = ἀπ = ἀφ = ἀφ᾽
 ἐκ = (+gen.) from = ἐξ
@@ -146,7 +146,7 @@
 χρῆν = (act.impf.ind) It was necessary, It must
 χρηστέον = one must use
 δέκα = (cardinal) ten
-δίς = (dís) (cardinal δύο, ordinal δεύτερος) twice, doubly, again
+δίς = (cardinal δύο, ordinal δεύτερος) twice, doubly, again
 δύο = (cardinal): two = δύ᾽ = δύω
 δώδεκα = (cardinal) twelve
 εἴκοσι = (cardinal) twenty
@@ -154,18 +154,18 @@
 ἑκατόν = (cardinal) hundred
 ἕνδεκα = (cardinal) eleven
 ἐννέα = (cardinal) nine
-num = ἕξ (cardinal) six (ordinal ἕκτος, adverbial ἑξάκις)
+ἕξ = (cardinal) six (ordinal ἕκτος, adverbial ἑξάκις)
 
 # =========================================
 ἑπτά = (cardinal) seven
-Ι = (I) ten (uppercase, lowercase ι) = ι
-ὀκτώ = (oktṓ) (ordinal ὄγδοος, adverbial ὀκτάκις) (cardinal) eight
-πέμπε = (pémpe), genitive πέμπων (pémpōn) Aeolic form of πέντε (pénte, “five”)
-πέντε = (pénte) (ordinal πέμπτος, adverbial πεντάκις) (cardinal) five
+Ι = ten (uppercase, lowercase ι) = ι
+ὀκτώ = (ordinal ὄγδοος, adverbial ὀκτάκις) (cardinal) eight
+πέμπε = genitive πέμπων (pémpōn) Aeolic form of πέντε (pénte, five)
+πέντε = (ordinal πέμπτος, adverbial πεντάκις) (cardinal) five
 τέσσαρες = (cardinal) four = τέτταρες
-τρεῖς = (treîs) (ordinal τρίτος, adverbial τρίς) (cardinal) three
+τρεῖς = (ordinal τρίτος, adverbial τρίς) (cardinal) three
 τριάκοντα = (cardinal) thirty
-τρίς = (trís) (cardinal τρεῖς, ordinal τρίτος) (adverbial) thrice, three times
+τρίς = (cardinal τρεῖς, ordinal τρίτος) (adverbial) thrice, three times
 χίλιοι = thousands
 ἐξόν = it is allowed, is possible
 δεόν = χρεών need to (sole participle in acc.)
