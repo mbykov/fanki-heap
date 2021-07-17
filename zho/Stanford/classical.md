@@ -17,3 +17,10 @@
 咬人 = “(It) bit(es) the man.”
 來犬 =  “(Subject) causes the dog to come,”
 犬來 = “The dog comes.”
+
+里 = lĭ = neighborhoods
+仁 = rén = humaneness
+為 = wéi = constitutes
+美 = měi = excellence
+
+里仁為美 = lĭ rén wéi měi = As for neighborhoods, humaneness constitutes excellence

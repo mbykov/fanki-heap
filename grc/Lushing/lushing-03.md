@@ -1,6 +1,8 @@
 # AN I NTRODUCTION TO A NCIENT G REEK A Literary Approach Second Edition Revised by C.A.E. Luschnig Deborah Mitchell
 # lesson 03
 
+### Genitive of Separation
+
 ### The Genitive of Agent with ὑπό
 πέμπονται ὑπὸ τῶν θεῶν = they are sent by the gods
 
