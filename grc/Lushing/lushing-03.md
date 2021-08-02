@@ -11,4 +11,12 @@
 τὰ ὑπὸ γῆς = the things under the earth
 ὑπὸ Τροίαν ἰέναι = to go under [the walls of] Troy
 ὑπὸ νύκτα = at nightfall
-ὑπὸ τὴν εἰρήνην at the time of peace
+ὑπὸ τὴν εἰρήνην = at the time of peace
+
+τάδ’ ὧδ’ ἔχει = this is how it is
+
+οὗτός ἐστιν Ἀγαμέμνων, ἐμὸς πόσις, νεκρὸς δὲ τῆσδε δεξιᾶς χερός ἔργον δικαίας τέκτονος. = Here is Agamemnon, he was my husband, a corpse made by this right hand, the hand of justice
+
+αἱ συμφοραὶ τῶν ἀνθρώπων ἄρχουσι, καὶ οὐκὶ ὥνθρωποι τῶν συμφορῶν. = The events control the people and not the other way round.
+
+οὐδείς = no one
