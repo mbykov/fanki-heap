@@ -4,6 +4,8 @@ look https://github.com/mbykov/fanki
 
 heap is a bunch of arbitrary subdirectories containing some files with sets (units) of cards as strings with fields separated by =
 
+files with -dict in the name are used as dictionaries
+
 comments starts with #, so it is convenient to give files the extension as .md, because many text editors pretty highlight lines with # sign
 
 as:
