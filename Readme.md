@@ -1,5 +1,4 @@
-#  a heap of the card's units for fanko
-
+#  a heap of the card's units for fanki
 
 look https://github.com/mbykov/fanki
 
@@ -13,7 +12,6 @@ as:
 一月 = yí yuè = January
 二月 = èr yuè = February
 三月 = sān yuè = March
-上
 ```
 
 or
