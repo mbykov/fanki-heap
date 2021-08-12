@@ -20,3 +20,5 @@
 αἱ συμφοραὶ τῶν ἀνθρώπων ἄρχουσι, καὶ οὐκὶ ὥνθρωποι τῶν συμφορῶν. = The events control the people and not the other way round.
 
 οὐδείς = no one
+
+ἐτεῇ δὲ οὐδὲν ἴδμεν· ἐν βυθῷ γὰρ ἡ ἀλήθεια. = In reality we know nothing: for the truth is in an abyss
