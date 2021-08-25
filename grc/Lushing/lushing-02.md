@@ -113,3 +113,7 @@
 οὐδεὶς φιλοπότης ἐστὶν ἄνθρωπος κακός. = No one who is fond of drinking is a wicked man.
 ἄριστον μὲν ὕδωρ . . . = Water is best . . .
 τυφλὸς τά τ’ ὦτα τόν τε νοῦν τά τ’ ὄμματ’ εἶ. = You are blind in your ears, your mind, and your eyes.[τὰ ὦτα, τὸν νοῦν, τὰ ὄμματα are acc. of respect]
+
+εἴ πού τίς τινα ἴδοι ἐχθρόν = if anyone saw an enemy anywhere
+που = anywhere
+ἴδοι = 3.sg aor act opt of εἶδον
