@@ -6,10 +6,10 @@
 了解 = liǎo jiě = understand
 做不了 = zuò bù liǎo = Cannot do it.
 子 = zǐ = son; baby; young child / character
-儿子 = 兒子 = ér zi = son
+儿子 = ér zi = son
 杯子 = bēi zi = cup
 箱子 = xiāng zi = box
-汉字 = 漢字 = hàn zì = Chinese character
-个字 = 三個字 = ān ge zì = Three characters
-十二个字 = 十二個字 = shí èr ge zì = Twelve characters.
-个子 = 個子 = gè zi = height = body
+汉字 = hàn zì = Chinese character
+个字 = ān ge zì = Three characters
+十二个字 = shí èr ge zì = Twelve characters.
+个子 = gè zi = height

@@ -10,6 +10,6 @@
 上个月 = shàng ge yuè = last month
 下个月 = xià ge yuè = next month
 明 = míng = clear /bright
-明白 míng bái to understand = to be clear (about = something)
+明白 = míng bái to understand = to be clear (about something)
 明天 = míng tiān = tomorrow
 日子 = rì zi = date or life as in ‘live a ___ life’

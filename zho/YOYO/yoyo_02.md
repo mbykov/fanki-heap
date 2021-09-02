@@ -4,8 +4,8 @@
 天 = tiān = heaven
 太 = tài = too
 大人 = dà rén = adult
-大学 = 大學 = dà xué = university
-天气 = 天氣 = tiān qì = weather
+大学 = dà xué = university
+天气 = tiān qì = weather
 今天 = jīn tiān = today
 昨天 = zuó tiān = yesterday
 明天 = míng tiān = tomorrow

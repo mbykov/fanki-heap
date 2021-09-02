@@ -108,11 +108,17 @@
 
 ὁ νόμος ἔπαυσε τὸν δικαστὴν τῶν κακῶν ἔργων = the law prevents judges from doing bad deeds
 
-ἐνόμισαν γὰρ τὸν δικαστήν, ὃς δῶρα ἔλαβεν, ἄξιον εἶναι θανάτου =
+ἐνόμισαν γὰρ τὸν δικαστήν, ὃς δῶρα ἔλαβεν, ἄξιον εἶναι θανάτου = they believed that the judge who took the gifts was worthy of death
 
+ἄξιός εἰμι = I deserve to
 
+οἱ ἀγαθοὶ ἐπίστευσαν τῇ ἀρετῇ = the worthy believed in valor
 
+ὁ ἥλιος ἤνεγκε τὸν βίον = the sun gave birth to life
 
+ἡ αἰσχρὰ ἔπεμψε κακὰ δῶρα πρὸς τὴν βασίλειαν ἣν ἀποκτεῖναι ἐβούλετο = you sent the king shameful disgusting gifts, wishing to kill him
+
+ὁ ταμίας ἔπραξεν ἀγαθά = treasurer made wealth
 
 
 

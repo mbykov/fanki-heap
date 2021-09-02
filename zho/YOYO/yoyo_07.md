@@ -7,7 +7,7 @@
 白人 = bái rén = white people / white person
 白天 = bái tiān = daytime
 一百 = yì bǎi = 100
-一百个人 = 一百個人 = yì bǎi ge rén 100 people
+一百个人 = yì bǎi ge rén = 100 people
 三百天 = sān bǎi tiān = 300 days
 我的手 = wō de shǒu = my hand(s)
 他的心 = tā de xīn = his heart
