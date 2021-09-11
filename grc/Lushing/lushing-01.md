@@ -37,22 +37,22 @@
 ἡ μὲν εἰρήνη φέρει τὸν βίον, ὁ δὲ πόλεμος θάνατον =  Peace brings life, whereas war brings death
 ὁ ἥλιος τοῖς ἀνθρώποις τὴν ἀρχὴν τοῦ βίου φέρει. = The sun brings the beginning of life to humans.
 ὁ πλοῦτος τὴν τοῦ ἀνθρώπου ψυχὴν λύει. = Wealth loosens/destroys the soul of man.
-ἀνάγκη μέτρον ἔχειν. [ἀνάγκη (ἐστί) + inf.: it is necessary] = it is necessary to have moderation.
+ἀνάγκη μέτρον ἔχειν = it is necessary to have moderation. [ἀνάγκη (ἐστί) + inf.: it is necessary]
 τὸ παιδίον ἐθέλει παιδεύεσθαι. = The little child wants to be educated
 ὁ δὲ χρόνος παιδεύει τὸ παιδίον. = But time educates the child.
 ὁ ἄνθρωπος παιδεύεται τὸ παιδίον. = The man educates his child (for his own benefit) OR the man has his child educated.
 τὰ παιδία εἰς τὴν νῆσον πέμπεται. = The children are sent to the island.
 τοῖς γὰρ θεοῖς ἀνάγκη τὰ δῶρα ἄγειν. = For it is necessary to lead gifts to the gods.
 οἱ μὲν ἄνθρωποι τῷ νόμῳ πείθονται· τὰ δὲ παιδία τοῖς φίλοις πείθεται. = Men obey the law. Children, on the other hand, obey their friends.
-ὁ λόγος ἐστὶ παρὰ τῶν θεῶν. [ἐστί is] = Reason is from the gods.
+ὁ λόγος ἐστὶ παρὰ τῶν θεῶν. = Reason is from the gods.
 τὰ γὰρ δῶρα ἄγομεν παρὰ τοὺς θεούς. = The gifts being carried belong to the gods.
 σὺν ταῖς φίλαις ἔρχονται. = They go with (their female) friends.
-εἰς ἀνθρώπους λέγει ὁ θεός. [εἰς here: before] = The god speaks before men
-σὺν θεῷ εἰρήνην πράττετε. [πράττω bring about] = You (pl.) bring about peace by means of the god/with god.
+εἰς ἀνθρώπους λέγει ὁ θεός. = The god speaks before men [εἰς here: before]
+σὺν θεῷ εἰρήνην πράττετε. = You (pl.) bring about peace by means of the god/with god. [πράττω bring about]
 
 ὁ μὲν ἄνθρωπος λέγει, ὁ δὲ θεὸς πράττει. = The human speaks, but the god does​. τὸν
 τὸν πόνον λείπομεν. =  We leave toil/labor.
-οἱ ἐν ταῖς νήσοις ἄνθρωποι ἡμῶν ἄρχουσιν. [ἡμῶν us; gen.] = Men rule over us in these islands
+οἱ ἐν ταῖς νήσοις ἄνθρωποι ἡμῶν ἄρχουσιν. = Men rule over us in these islands. [ἡμῶν us; gen.]
 παρὰ τοῖς φίλοις βουλόμεθα μένειν. = We want to remain by the side of/with/near our friends
 παρὰ τῇ ὁδῷ τὸν φίλον λείπετε; = Do you (pl.) leave the friend beside/near the road?
 

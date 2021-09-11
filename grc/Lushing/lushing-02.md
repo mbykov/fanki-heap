@@ -21,30 +21,30 @@
 χρόνος ἐστὶν ἐν ᾧ καιρός, καὶ καιρὸς ἐν ᾧ χρόνος οὐ πολύς = Time is that wherein there is opportunity, and opportunity is that wherein there is no great time
 ἀγαθός, ἀγαθή, ἀγαθόν = good
 ἄδικος, ἄδικον = unjust
-ἀθάνατος, ἀθάνατον = immortal, deathless (< θάνατος)
-ἄλογος, ἄλογον = irrational (< λόγος)
-ἄριστος, ἀρίστη, ἄριστον = best (superlative of ἀγαθός) (aristocrat)
-δεινός, δεινή, δεινόν = fearful, terrible; clever (dinosaur)
+ἀθάνατος, ἀθάνατον = immortal, deathless
+ἄλογος, ἄλογον = irrational
+ἄριστος, ἀρίστη, ἄριστον = best (superlative of ἀγαθός)
+δεινός, δεινή, δεινόν = fearful, terrible; clever
 Ἑλληνικός, ‐ή, ‐όν = Greek
 ἐσθλός, ἐσθλή, ἐσθλόν = noble, good, brave
-κακός, κακή, κακόν = bad, evil (cacophony)
-καλός, καλή, καλόν = good, fine, fair, beautiful (calligraphy)
-κοινός, κοινή, κοινόν = common, public (koinē)
-μόνος, μόνη, μόνον = alone, only (monotheistic)
-ὅλος, ὅλη, ὅλον = whole, entire, complete (holograph)
-πρῶτος, πρώτη, πρῶτον = first, foremost (protocol)
-σοφός, σοφή, σοφόν = wise, clever, skilled (sophisticated)
+κακός, κακή, κακόν = bad, evil
+καλός, καλή, καλόν = good, fine, fair, beautiful
+κοινός, κοινή, κοινόν = common, public
+μόνος, μόνη, μόνον = alone, only
+ὅλος, ὅλη, ὅλον = whole, entire, complete
+πρῶτος, πρώτη, πρῶτον = first, foremost
+σοφός, σοφή, σοφόν = wise, clever, skilled
 χαλεπός, χαλεπή, χαλεπόν = hard, difficult
 χρηστός, χρηστή, χρηστόν = good
-βιβλίον, βιβλίου, τό = book (bibliography; βιβλιοθήκη, library)
-γάμος, γάμου, ὁ = marriage (monogamous)
-ἡδονή, ἡδονῆς, ἡ = pleasure (hedonist)
-ἰατρός, ἰατροῦ, ὁ = physician, healer (pediatrician, psychiatrist)
+βιβλίον, βιβλίου, τό = book
+γάμος, γάμου, ὁ = marriage
+ἡδονή, ἡδονῆς, ἡ = pleasure
+ἰατρός, ἰατροῦ, ὁ = physician, healer
 κόσμος, κόσμου, ὁ = order, ornament, credit, world-order, universe
 κατὰ κόσμον = in order, duly
-οἶνος, οἴνου, ὁ = wine (cf. Latin vinum)
+οἶνος, οἴνου, ὁ = wine
 τύχη, τύχης, ἡ = fortune, luck
-ὕπνος, ὕπνου, ὁ = sleep (hypnosis)
+ὕπνος, ὕπνου, ὁ = sleep
 καὶ νῦν = even so
 οἱ νῦν = men of the present day
 ὅσπερ, ἥπερ, ὅπερ = the very one who
@@ -84,7 +84,7 @@
 
 ἔστι ἡ ψυχὴ τοῦ ζῶντος σώματος αἰτία καὶ ἀρχή. = The soul is the cause and the first principle of the living body.
 κατὰ γνώμην τὴν ἐμήν = in my opinion
-τὰ γὰρ τῆς τῶν πολλῶν ψυχῆς ὄμματα = the eyes of the soul of the many
+τὰ γὰρ τῆς τῶν πολλῶν ψυχῆς ὄμματα = the eyes of most people's soul
 οἱ τότε ἄνθρωποι = the people of that time
 οἱ ἄνθρωποι οἱ ἐν ἄστει = the people in the city
 τὸ παρὰ τὸν Ἀλφειὸν ποταμὸν πεδίον = the plain by the river Alpheius
@@ -108,11 +108,11 @@
 
 τί μικρόλογος εἶ; πλεῖαί τοι οἴνου κλισίαι. = Why are you so stingy? Your tents are full of wine.
 οἴνῳ τὸν οἶνον ἐξελαύνειν. = A hair of the dog that bit you. (Lit. to drive out wine with wine.)
-οἶνος, ὦ φίλε παῖ, καὶ ἀλάθεα (= ἀλήθεια). = Wine, dear boy, and truth. (In vino veritas)
+οἶνος, ὦ φίλε παῖ, καὶ ἀλάθεα = Wine, dear boy, and truth. (In vino veritas) (= ἀλήθεια).
 οἱ μὲν ἄρ’ οἶνον ἔμισγον ἐνὶ κρητῆρσι καὶ ὕδωρ. = Some were mixing wine and water in craters (mixing bowls).
 οὐδεὶς φιλοπότης ἐστὶν ἄνθρωπος κακός. = No one who is fond of drinking is a wicked man.
 ἄριστον μὲν ὕδωρ . . . = Water is best . . .
-τυφλὸς τά τ’ ὦτα τόν τε νοῦν τά τ’ ὄμματ’ εἶ. = You are blind in your ears, your mind, and your eyes.[τὰ ὦτα, τὸν νοῦν, τὰ ὄμματα are acc. of respect]
+τυφλὸς τά τ’ ὦτα τόν τε νοῦν τά τ’ ὄμματ’ εἶ. = You are blind in your ears, your mind, and your eyes.[acc. of respect]
 
 εἴ πού τίς τινα ἴδοι ἐχθρόν = if anyone saw an enemy anywhere
 που = anywhere

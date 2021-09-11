@@ -42,7 +42,7 @@
 
 οἱ Μένωνος = [ἄνδρες] Menon's men
 
-ἐν Ἁιδου = [οἰκίᾳ] in Hades (underworld)
+ἐν Ἁιδου = [οἰκίᾳ] in Hades
 
 εἰς διδασκάλου = [οἰκίαν] at the schoolmaster's
 

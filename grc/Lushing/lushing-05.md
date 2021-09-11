@@ -53,3 +53,17 @@
 ἐκ μικρῶν ἔργων ἔρχεται μικρὸν κλέος = petty fame comes out of small deeds
 
 ὁ χρόνος κλώψ ἐστι τῶν ἐν βίῳ ἀγαθῶν = time is a thief of the good of life
+
+. . .
+
+
+
+# readings
+
+Θουκυδίδης Ἀθηναῖος συνέγραψε τὸν πόλεμον τῶν Πελοποννησίων καὶ Ἀθηναίων = Thucydides of Athens composed the history of the war of the Peloponnesians and Athenians
+
+ ἦν Λακεδαιμόνιος Χίλων σοφός, ὃς τάδ’ ἔλεξε· μηδὲν ἄγαν· καιρῷ πάντα πρόσεστι καλά = there was the wise Spartan Chilo, who said: nothing in excess; all good things in due time
+
+πρὸς υἱὸν ὀργὴν οὐκ ἔχει χρηστὸς πατήρ = a good father has no anger against his son
+
+διὰ τὴν τῶν χρημάτων κτῆσιν πάντες οἱ πόλεμοι ἡμῖν γίγνονται =
