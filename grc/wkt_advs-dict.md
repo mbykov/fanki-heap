@@ -134,11 +134,9 @@
 ἔξω = (éxō) (comparative ἐξωτέρω, superlative ἐξωτάτω) out, out of outside (governs the genitive) without, except (adjectival) outer, external or foreign
 ἑξῆς = (hexês) (Epic, Attic, Koine) in order, one after another
 ἐπάνω = (epánō) above, higher than, more than
-ἔπειτα = (épeita) (of mere sequence, without any notion of cause) thereupon, thereafter, then (with the article) what follows (like εἶτα, with a finite verb after a participle) (in apodoses, though never at the beginning of the clause, in Homer often strengthened) (after a temporal conjunction) then, thereafter
- (after a conditional conjunction) then, surely
- (of sequence in thought, i.e. consequence or inference) then, therefore (to begin a story) (in Attic often to introduce emphatic questions)
- ἔπειθ᾽ = (épeith’) Apocopic form of ἔπειτα (épeita) (used before a rough breathing)
- ἔπειτ᾽ = (épeit’) Apocopic form of ἔπειτα (épeita) (used before a smooth breathing)
+ἔπειτα = (épeita) (of mere sequence, without any notion of cause) thereupon, thereafter, then (with the article) what follows (like εἶτα, with a finite verb after a participle) (in apodoses, though never at the beginning of the clause, in Homer often strengthened) (after a temporal conjunction) then, thereafter; (after a conditional conjunction) then, surely; (of sequence in thought, i.e. consequence or inference) then, therefore (to begin a story) (in Attic often to introduce emphatic questions)
+ἔπειθ᾽ = (épeith’) Apocopic form of ἔπειτα (épeita) (used before a rough breathing)
+ἔπειτ᾽ = (épeit’) Apocopic form of ἔπειτα (épeita) (used before a smooth breathing)
 ἐπισταμένως = (epistaménōs) skillfully
 ἔραζε = (éraze) to the ground
 ἐσσυμένως = (essuménōs) eagerly, impetuously
@@ -176,7 +174,7 @@
 καρπαλίμως = (karpalímōs) swiftly, quickly
 # κατὰ στοιχεῖον = (katà stoikheîon)
 # in the order of the letters, alphabetically
-Synonyms
+
 καταλογάδην = (katalogádēn) in conversation or prose in detail, longwindedly
 κατέναντι = (katénanti) Alternative spelling of κατεναντίον (katenantíon)
 κατεναντίον = (katenantíon) over against, opposite
@@ -276,7 +274,7 @@ Synonyms
 οὗ = (hoû) (relative adverb) where, when
 πάγχυ = (pánkhu) wholly, quite
 πάλαι = (pálai) (of a point in the past) long ago, in days past
- Of past time closer to the present: before, earlier, a while ago with a present-tense verb since a point in the past, for a long time
+
 πάλιν = (pálin) (of place) back, backwards (with a notion of contradiction) (of time) again, once more, anew again, in turn, doubly
 πάμπαν = (pámpan) wholly, altogether, quite
 πανδημεί = (pandēmeí) with the whole people, en masse
