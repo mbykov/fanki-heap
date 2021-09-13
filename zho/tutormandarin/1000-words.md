@@ -1,4 +1,4 @@
-# https://www.tutormandarin.net/en/1000-most-common-chinese-words/ =
+# https://www.tutormandarin.net/en/1000-most-common-chinese-words
 
 我叫大卫。 = Wǒ jiào Dàwèi. = My name is David.
 
