@@ -242,7 +242,7 @@
 
 出门 = chūmén = to go outside
 
-种 = zhǒng = Measure word = kind,type
+种 = zhǒng = Measure word = kind, type
 
 一起 = yìqǐ = together
 
