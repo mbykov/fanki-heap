@@ -35,11 +35,11 @@ neunzig = девяносто
 hundert = сто
 tausend = тысяча
 
-21 = einundzwansig
-55 = fünfundfünfzig
-135 = einhundertfünfunddreissig
-2013 = zweitausenddreizehn
-4387 = viertausenddreihundertsiebenundachtzig
+einundzwansig = 21
+fünfundfünfzig = 55
+einhundertfünfunddreissig = 135
+zweitausenddreizehn = 2013
+viertausenddreihundertsiebenundachtzig = 4387
 
 # Порядковые числительные образуются: основа количественного числительного + te:
 
@@ -101,7 +101,7 @@ Ihr = Ваш
 meine = моя
 deine = твоя
 seine = его
-ihre –её
+ihre = её
 unsere = наша
 euere = ваша
 ihre = их

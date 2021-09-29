@@ -714,7 +714,7 @@ wenn = когда; если
 wie viel (wie viele) = сколько
 
 ich = я
-du = т
+du = ты
 er = он
 sie = она
 es = оно
@@ -1168,3 +1168,41 @@ kennenlernen = узнавать, знакомиться
 überzeugen = убеждать
 genehmigen = позволять, санкционировать, одобрять
 schätzen = ценить
+
+# формы
+
+# Притяжательные местоимения:
+mein = мой
+meine = моя
+dein = твой
+deine = твоя
+sein = его
+seine = его
+ihr = её
+ihre = её
+unser = наш
+unsere = наша
+euer = ваш
+eure = ваша
+ihr = их
+ihre = их
+Ihr = Ваш
+Ihre = Ваша
+
+Wer? = Кто?
+meine = мои
+Wen? = Кого?
+meinen = моего
+meine = мою
+meine = моих
+Wem? = Кому?
+meinem = моему
+meiner = моей
+meinen = моим
+
+# Неопределенный артикль: ein
+# Определенные артикли: der (м. р.), die (ж. р.), das (ср. р.)
+ein = артикль
+der = артикль (м. р.)
+die  = артикль (ж. р.)
+das = артикль (ср. р.)
